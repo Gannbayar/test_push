@@ -4,6 +4,7 @@
 git clone https://github.com/Gannbayar/test_push.git
 ```
 アポストロフィを３つで囲むとそのがコンピューターの命令のように成形されます。
+<<<<<<< HEAD
 
 ## gitでブランチを作る
 
@@ -23,4 +24,8 @@ git branch test_branch
 ```
 git checkout test_branch
 ```
+
+=======
+>>>>>>> 9d97ca72ddcc69c768c624b6c12cea93802799d5
+haha
 
